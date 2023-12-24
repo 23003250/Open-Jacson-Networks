@@ -69,8 +69,13 @@ else:
 print("----------------------------------------------------------------------")
 ```
 
+
+
+
 ## Output
 ![open json](https://github.com/23003250/Open-Jacson-Networks/assets/139331462/d4694ccd-ae99-4526-b966-104cc13da785)
+
+
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
